@@ -38,7 +38,7 @@ export default function About() {
           >
             <div className={styles.aboutCard}>
               <div className={styles.aboutCardQuote}>
-                At EDAS Hill, we don't just teach children — we equip them to think, create, and lead.
+                At EDAS Hill, we don't just teach children,we equip them to think, create, and lead.
               </div>
               <div className={styles.aboutSig}>
                 <strong>Mrs. Edith A. Sande</strong>

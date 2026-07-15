@@ -19,7 +19,7 @@ export default function SchoolLife() {
         >
           <div className={styles.sectionEyebrow}>School life</div>
           <h2 className={styles.sectionTitle}>
-            More than a classroom — <em>a community</em>
+            More than a classroom  <em>a community</em>
           </h2>
           <p className={styles.sectionIntro}>
             Learning at EDAS Hill happens everywhere — in classrooms, on the field, in the garden, in the lab, and in every interaction between our learners and teachers.

@@ -19,7 +19,7 @@ export default function Admissions() {
         >
           <div className={styles.sectionEyebrow}>Join our community</div>
           <h2 className={styles.sectionTitle}>
-            Admissions — <em>simple, clear, and welcoming</em>
+            Admissions: <em>simple, clear, and welcoming</em>
           </h2>
           <p className={styles.sectionIntro}>
             We enrol learners into Grades 1–4. Intake runs at the beginning of each term, with a rolling admissions process throughout the year subject to availability.

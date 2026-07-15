@@ -106,7 +106,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7, delay: 0.2 }}
         >
-          Where every child finds their peak. A competency-based learning environment rooted in creativity, character, and community — nestled in the heart of Kenya.
+          Where every child finds their peak. A competency-based learning environment rooted in creativity, character, and community ,nestled in the heart of Kenya.
         </motion.p>
 
         <motion.div

@@ -39,16 +39,16 @@ export default function Footer() {
           <div className={styles.footerCol}>
             <h4>Contacts</h4>
             <ul>
-              <li><a href="tel:+254700000000">+254 700 000 000</a></li>
-              <li><a href="mailto:info@edashillacademy.ac.ke">info@edashillacademy.ac.ke</a></li>
+              <li><a href="tel:+254721358844">+254 721358844</a></li>
+              <li><a href="mailto:edascollage90@gmail.com">edascollage90@gmail.com</a></li>
               <li><a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook page</a></li>
               <li><a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-              <li><a href="https://wa.me/254700000000" target="_blank" rel="noopener noreferrer">WhatsApp us</a></li>
+              <li><a href="https://wa.me/254721358844" target="_blank" rel="noopener noreferrer">WhatsApp us</a></li>
             </ul>
           </div>
         </div>
         <div className={styles.footerBottom}>
-          <span>© 2025 EDAS Hill Academy. All rights reserved.</span>
+          <span>© 2026 EDAS Hill Academy. All rights reserved.</span>
           <span>Proudly following <span className={styles.yellow}>Kenya CBC Framework</span> · KICD compliant</span>
         </div>
       </div>
