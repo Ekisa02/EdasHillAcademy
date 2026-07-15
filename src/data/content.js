@@ -153,9 +153,9 @@ export const staff = [
 ];
 
 export const contactInfo = [
-  { icon: '📍', label: 'Address', text: 'EDAS Hill Academy, Hillside Road, Off Kiambu Road, Nairobi County, Kenya' },
-  { icon: '📞', label: 'Phone / WhatsApp', text: '+254 700 000 000' },
-  { icon: '📧', label: 'Email', text: 'info@edashillacademy.ac.ke' },
+  { icon: '📍', label: 'Address', text: 'EDAS Hill Academy, Kapina,  Nambale subcounty, Busia County, Kenya' },
+  { icon: '📞', label: 'Phone / WhatsApp', text: '+254 721358844' },
+  { icon: '📧', label: 'Email', text: 'edascollage90@gmail.com' },
   { icon: '🕐', label: 'Office hours', text: 'Mon – Fri: 7:00 AM – 5:00 PM\nSat: 9:00 AM – 12:00 PM' },
   { icon: '📘', label: 'Follow us', text: 'Facebook: EDAS Hill Academy\nInstagram: @edashillacademy' },
 ];
