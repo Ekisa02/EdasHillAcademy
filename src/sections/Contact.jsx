@@ -112,7 +112,7 @@ export default function Contact() {
                 whileTap={{ scale: 0.98 }}
                 style={{ background: sent ? '#2D6A4F' : 'var(--green)' }}
               >
-                {sent ? "Message sent! We\'ll be in touch soon ✓" : 'Send message'}
+                {sent ? "Message sent! We'll be in touch soon ✓" : 'Send message'}
               </motion.button>
             </form>
           </motion.div>

@@ -41,9 +41,9 @@ export default function Footer() {
             <ul>
               <li><a href="tel:+254700000000">+254 700 000 000</a></li>
               <li><a href="mailto:info@edashillacademy.ac.ke">info@edashillacademy.ac.ke</a></li>
-              <li><a href="#">Facebook page</a></li>
-              <li><a href="#">Instagram</a></li>
-              <li><a href="#">WhatsApp us</a></li>
+              <li><a href="https://facebook.com" target="_blank" rel="noopener noreferrer">Facebook page</a></li>
+              <li><a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+              <li><a href="https://wa.me/254700000000" target="_blank" rel="noopener noreferrer">WhatsApp us</a></li>
             </ul>
           </div>
         </div>
